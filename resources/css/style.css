@@ -13,10 +13,15 @@ h2{
   font-weight: 300;
   font-size: 42px;
 }
-p{
+a{
   text-align: center;
   color: aquamarine;
   font-size: 16px;
+}
+
+.copyright{
+  text-align: right;
+  color: gray;
 }
 
 .travel{
